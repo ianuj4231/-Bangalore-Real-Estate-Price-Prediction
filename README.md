@@ -4,7 +4,7 @@
 
 
 ## Screenshot
-![Screenshot 2023-05-26 153229](https://github.com/ianuj4231/Bangalore-Real-Estate-Price-Prediction/assets/134675919/bda73cf0-e1b8-44c0-bd77-5b2f95288f93)
+![Screenshot 2023-05-26 153229](https://github.com/ianuj4231/Bangalore-Real-Estate-Price-Prediction/assets/134675919/5c3d0830-77ca-43ad-a0e7-7b7e6427afd6)
 
 
 ## Project Objectives
