@@ -9,7 +9,7 @@
 
 ## Project Objectives
 
-The objective of the project is to create a machine learning model. We are doing a supervised learning and our aim is to do predictive analysis to predict housing prices in Bangalore.
+The project aims to develop a supervised machine learning model for predictive analysis of housing prices in Bangalore using features such as area, bedrooms, bathrooms, and location.
 
 ## Project Concept and Inspriration:
 
